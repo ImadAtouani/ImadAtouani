@@ -1,5 +1,5 @@
 # 🤸‍♂️ About Me:
-I'm a 2nd year computer science student :computer: based in UM6P 🇲🇦, I'm passionate about Web development 🕸️ and Cybersecurity :lock_with_ink_pen:.
+I'm a computer science student :computer: based in IPSSI 🇫🇷, I'm passionate about Web development 🕸️ and Cybersecurity :lock_with_ink_pen:.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/imad-atouani](https://www.linkedin.com/in/imad-atouani-88b832165/)) 
