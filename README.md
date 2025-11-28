@@ -38,6 +38,4 @@ I'm a computer science student :computer: based in IPSSI 🇫🇷, I'm passionat
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ImadAtouani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ImadAtouani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImadAtouani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Imad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImadAtouani)](https://github.com/anuraghazra/github-readme-stats)
