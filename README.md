@@ -1,11 +1,15 @@
-# 🤸‍♂️ About Me:
-I'm a computer science student :computer: based in IPSSI 🇫🇷, I'm passionate about Web development 🕸️ and Cybersecurity :lock_with_ink_pen:.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3500&pause=500&color=5AE4FF&center=true&width=650&lines=Hi%2C+I'm+Imad+Atouani;CS+student+%40+IPSSI+%F0%9F%87%AB%F0%9F%87%B7;Web+Dev+%2B+CyberSec+Enthusiast" alt="Animated intro" />
+</p>
 
-## 🌐 Socials:
+# 🤸‍♂️ About Me
+I'm a computer science student :computer: based in IPSSI 🇫🇷, passionate about Web development 🕸️ and Cybersecurity :lock_with_ink_pen:.
+
+# 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imad-atouani)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imadatouani270@gmail.com)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:i.atouani@ecole-ipssi.net)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://imadatouani.github.io/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://imadatouani.github.io/Portfolio)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -37,5 +41,5 @@ I'm a computer science student :computer: based in IPSSI 🇫🇷, I'm passionat
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ImadAtouani&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+# 🔥 Activity Snapshot
+![GitHub Streak](https://streak-stats.demolab.com?user=ImadAtouani&theme=github-dark-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
