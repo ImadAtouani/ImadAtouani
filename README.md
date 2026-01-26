@@ -41,5 +41,7 @@ I'm a computer science student :computer: based in IPSSI 🇫🇷, passionate ab
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-# 🔥 Activity Snapshot
-![GitHub Streak](https://streak-stats.demolab.com?user=ImadAtouani&theme=github-dark-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
+# 🔥 GitHub Stats
+![ImadAtouani's Stats](https://github-readme-stats.vercel.app/api?username=ImadAtouani&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![ImadAtouani's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ImadAtouani&theme=vue-dark&hide_border=false)
+![ImadAtouani's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImadAtouani&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
