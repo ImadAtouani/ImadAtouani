@@ -8,7 +8,7 @@
 
 # 🤸‍♂️ About Me
 
-<img align="right" width="260" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/Assets/Matrix.gif" alt="Matrix rain animation" />
+<img align="right" width="260" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding animation" />
 
 - 🎓 Computer science student :computer: at **IPSSI** 🇫🇷
 - 🕸️ Passionate about **Web Development**
