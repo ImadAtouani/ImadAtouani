@@ -6,42 +6,54 @@
 I'm a computer science student :computer: based in IPSSI 🇫🇷, passionate about Web development 🕸️ and Cybersecurity :lock_with_ink_pen:.
 
 # 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imad-atouani)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imadatouani270@gmail.com)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:i.atouani@ecole-ipssi.net)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://imadatouani.github.io/Portfolio)
+<p align="left">
+  <a href="https://linkedin.com/in/imad-atouani"><img src="https://cdn.simpleicons.org/linkedin" width="45" height="45" alt="LinkedIn" /></a>
+  <a href="mailto:imadatouani270@gmail.com"><img src="https://cdn.simpleicons.org/gmail" width="45" height="45" alt="Gmail" /></a>
+  <a href="mailto:i.atouani@ecole-ipssi.net"><img src="https://cdn.simpleicons.org/microsoftoutlook" width="45" height="45" alt="Outlook" /></a>
+  <a href="https://imadatouani.github.io/Portfolio"><img src="https://cdn.simpleicons.org/firefox" width="45" height="45" alt="Portfolio" /></a>
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![RISC-V](https://img.shields.io/badge/riscv-%23283272.svg?style=for-the-badge&logo=riscv&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+# 💻 Tech Stack
+
+### Languages
+<p align="left">
+  <img src="https://cdn.simpleicons.org/python" width="45" height="45" alt="Python" />
+  <img src="https://cdn.simpleicons.org/c" width="45" height="45" alt="C" />
+  <img src="https://cdn.simpleicons.org/cplusplus" width="45" height="45" alt="C++" />
+  <img src="https://cdn.simpleicons.org/html5" width="45" height="45" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/css3" width="45" height="45" alt="CSS3" />
+  <img src="https://cdn.simpleicons.org/javascript" width="45" height="45" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/php" width="45" height="45" alt="PHP" />
+</p>
+
+### Frameworks & Databases
+<p align="left">
+  <img src="https://cdn.simpleicons.org/vuedotjs" width="45" height="45" alt="Vue.js" />
+  <img src="https://cdn.simpleicons.org/nodedotjs" width="45" height="45" alt="Node.js" />
+  <img src="https://cdn.simpleicons.org/mysql" width="45" height="45" alt="MySQL" />
+  <img src="https://cdn.simpleicons.org/firebase" width="45" height="45" alt="Firebase" />
+  <img src="https://cdn.simpleicons.org/assemblyscript" width="45" height="45" alt="AssemblyScript" />
+  <img src="https://cdn.simpleicons.org/riscv" width="45" height="45" alt="RISC-V" />
+</p>
+
+### Tools & Platforms
+<p align="left">
+  <img src="https://cdn.simpleicons.org/visualstudiocode" width="45" height="45" alt="VS Code" />
+  <img src="https://cdn.simpleicons.org/pycharm" width="45" height="45" alt="PyCharm" />
+  <img src="https://cdn.simpleicons.org/jupyter" width="45" height="45" alt="Jupyter" />
+  <img src="https://cdn.simpleicons.org/linux" width="45" height="45" alt="Linux" />
+  <img src="https://cdn.simpleicons.org/arduino" width="45" height="45" alt="Arduino" />
+  <img src="https://cdn.simpleicons.org/raspberrypi" width="45" height="45" alt="Raspberry Pi" />
+  <img src="https://cdn.simpleicons.org/cisco" width="45" height="45" alt="Cisco" />
+  <img src="https://cdn.simpleicons.org/git" width="45" height="45" alt="Git" />
+  <img src="https://cdn.simpleicons.org/github" width="45" height="45" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/githubcopilot" width="45" height="45" alt="GitHub Copilot" />
+  <img src="https://cdn.simpleicons.org/openai" width="45" height="45" alt="ChatGPT" />
+  <img src="https://cdn.simpleicons.org/latex" width="45" height="45" alt="LaTeX" />
+  <img src="https://cdn.simpleicons.org/markdown" width="45" height="45" alt="Markdown" />
+</p>
 
 # 🔥 GitHub Stats
-![ImadAtouani's Stats](https://github-readme-stats.vercel.app/api?username=ImadAtouani&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![ImadAtouani's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ImadAtouani&theme=vue-dark&hide_border=false)
-![ImadAtouani's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImadAtouani&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![ImadAtouani's Stats](https://github-readme-stats.vercel.app/api?username=ImadAtouani&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![ImadAtouani's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ImadAtouani&theme=tokyonight&hide_border=true)
+![ImadAtouani's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImadAtouani&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
