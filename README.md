@@ -37,20 +37,36 @@ I'm a computer science student :computer: based in IPSSI 🇫🇷, passionate ab
   <img src="https://cdn.simpleicons.org/riscv" width="45" height="45" alt="RISC-V" />
 </p>
 
-### Tools & Platforms
+### IDEs & Editors
 <p align="left">
   <img src="https://api.iconify.design/logos/visual-studio-code.svg" width="45" height="45" alt="VS Code" />
   <img src="https://cdn.simpleicons.org/pycharm" width="45" height="45" alt="PyCharm" />
   <img src="https://cdn.simpleicons.org/jupyter" width="45" height="45" alt="Jupyter" />
+</p>
+
+### OS & Hardware
+<p align="left">
   <img src="https://cdn.simpleicons.org/linux" width="45" height="45" alt="Linux" />
   <img src="https://cdn.simpleicons.org/arduino" width="45" height="45" alt="Arduino" />
+  <img src="https://cdn.simpleicons.org/cisco" width="45" height="45" alt="Cisco" />
+</p>
+
+### DevOps & Cloud
+<p align="left">
   <img src="https://api.iconify.design/logos/docker-icon.svg" width="45" height="45" alt="Docker" />
   <img src="https://api.iconify.design/logos/aws.svg" width="45" height="45" alt="AWS" />
   <img src="https://cdn.simpleicons.org/grafana" width="45" height="45" alt="Grafana" />
-  <img src="https://cdn.simpleicons.org/cisco" width="45" height="45" alt="Cisco" />
+</p>
+
+### Version Control
+<p align="left">
   <img src="https://cdn.simpleicons.org/git" width="45" height="45" alt="Git" />
   <img src="https://cdn.simpleicons.org/github" width="45" height="45" alt="GitHub" />
   <img src="https://cdn.simpleicons.org/githubcopilot" width="45" height="45" alt="GitHub Copilot" />
+</p>
+
+### AI & Documentation
+<p align="left">
   <img src="https://api.iconify.design/logos/openai-icon.svg" width="45" height="45" alt="ChatGPT" />
   <img src="https://cdn.simpleicons.org/latex" width="45" height="45" alt="LaTeX" />
   <img src="https://cdn.simpleicons.org/markdown" width="45" height="45" alt="Markdown" />
