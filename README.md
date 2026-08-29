@@ -7,9 +7,9 @@ I'm a computer science student :computer: based in IPSSI 🇫🇷, passionate ab
 
 # 🌐 Socials
 <p align="left">
-  <a href="https://linkedin.com/in/imad-atouani"><img src="https://cdn.simpleicons.org/linkedin" width="45" height="45" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/imad-atouani"><img src="https://api.iconify.design/logos/linkedin-icon.svg" width="45" height="45" alt="LinkedIn" /></a>
   <a href="mailto:imadatouani270@gmail.com"><img src="https://cdn.simpleicons.org/gmail" width="45" height="45" alt="Gmail" /></a>
-  <a href="mailto:i.atouani@ecole-ipssi.net"><img src="https://cdn.simpleicons.org/microsoftoutlook" width="45" height="45" alt="Outlook" /></a>
+  <a href="mailto:i.atouani@ecole-ipssi.net"><img src="https://api.iconify.design/logos/microsoft-outlook.svg" width="45" height="45" alt="Outlook" /></a>
   <a href="https://imadatouani.github.io/Portfolio"><img src="https://cdn.simpleicons.org/firefox" width="45" height="45" alt="Portfolio" /></a>
 </p>
 
@@ -21,7 +21,7 @@ I'm a computer science student :computer: based in IPSSI 🇫🇷, passionate ab
   <img src="https://cdn.simpleicons.org/c" width="45" height="45" alt="C" />
   <img src="https://cdn.simpleicons.org/cplusplus" width="45" height="45" alt="C++" />
   <img src="https://cdn.simpleicons.org/html5" width="45" height="45" alt="HTML5" />
-  <img src="https://cdn.simpleicons.org/css3" width="45" height="45" alt="CSS3" />
+  <img src="https://api.iconify.design/logos/css-3.svg" width="45" height="45" alt="CSS3" />
   <img src="https://cdn.simpleicons.org/javascript" width="45" height="45" alt="JavaScript" />
   <img src="https://cdn.simpleicons.org/php" width="45" height="45" alt="PHP" />
 </p>
@@ -38,17 +38,18 @@ I'm a computer science student :computer: based in IPSSI 🇫🇷, passionate ab
 
 ### Tools & Platforms
 <p align="left">
-  <img src="https://cdn.simpleicons.org/visualstudiocode" width="45" height="45" alt="VS Code" />
+  <img src="https://api.iconify.design/logos/visual-studio-code.svg" width="45" height="45" alt="VS Code" />
   <img src="https://cdn.simpleicons.org/pycharm" width="45" height="45" alt="PyCharm" />
   <img src="https://cdn.simpleicons.org/jupyter" width="45" height="45" alt="Jupyter" />
   <img src="https://cdn.simpleicons.org/linux" width="45" height="45" alt="Linux" />
   <img src="https://cdn.simpleicons.org/arduino" width="45" height="45" alt="Arduino" />
-  <img src="https://cdn.simpleicons.org/raspberrypi" width="45" height="45" alt="Raspberry Pi" />
+  <img src="https://api.iconify.design/logos/docker-icon.svg" width="45" height="45" alt="Docker" />
+  <img src="https://api.iconify.design/logos/aws.svg" width="45" height="45" alt="AWS" />
   <img src="https://cdn.simpleicons.org/cisco" width="45" height="45" alt="Cisco" />
   <img src="https://cdn.simpleicons.org/git" width="45" height="45" alt="Git" />
   <img src="https://cdn.simpleicons.org/github" width="45" height="45" alt="GitHub" />
   <img src="https://cdn.simpleicons.org/githubcopilot" width="45" height="45" alt="GitHub Copilot" />
-  <img src="https://cdn.simpleicons.org/openai" width="45" height="45" alt="ChatGPT" />
+  <img src="https://api.iconify.design/logos/openai-icon.svg" width="45" height="45" alt="ChatGPT" />
   <img src="https://cdn.simpleicons.org/latex" width="45" height="45" alt="LaTeX" />
   <img src="https://cdn.simpleicons.org/markdown" width="45" height="45" alt="Markdown" />
 </p>
