@@ -9,7 +9,7 @@ I'm a computer science student :computer: based in IPSSI 🇫🇷, passionate ab
 <p align="left">
   <a href="https://linkedin.com/in/imad-atouani"><img src="https://api.iconify.design/logos/linkedin-icon.svg" width="45" height="45" alt="LinkedIn" /></a>
   <a href="mailto:imadatouani270@gmail.com"><img src="https://cdn.simpleicons.org/gmail" width="45" height="45" alt="Gmail" /></a>
-  <a href="mailto:i.atouani@ecole-ipssi.net"><img src="https://api.iconify.design/logos/microsoft-outlook.svg" width="45" height="45" alt="Outlook" /></a>
+  <a href="mailto:i.atouani@ecole-ipssi.net"><img src="https://img.icons8.com/color/96/microsoft-outlook-2019.png" width="45" height="45" alt="Outlook" /></a>
   <a href="https://imadatouani.github.io/Portfolio"><img src="https://cdn.simpleicons.org/firefox" width="45" height="45" alt="Portfolio" /></a>
 </p>
 
@@ -32,6 +32,7 @@ I'm a computer science student :computer: based in IPSSI 🇫🇷, passionate ab
   <img src="https://cdn.simpleicons.org/nodedotjs" width="45" height="45" alt="Node.js" />
   <img src="https://cdn.simpleicons.org/mysql" width="45" height="45" alt="MySQL" />
   <img src="https://cdn.simpleicons.org/firebase" width="45" height="45" alt="Firebase" />
+  <img src="https://cdn.simpleicons.org/mongodb" width="45" height="45" alt="MongoDB" />
   <img src="https://cdn.simpleicons.org/assemblyscript" width="45" height="45" alt="AssemblyScript" />
   <img src="https://cdn.simpleicons.org/riscv" width="45" height="45" alt="RISC-V" />
 </p>
@@ -45,6 +46,7 @@ I'm a computer science student :computer: based in IPSSI 🇫🇷, passionate ab
   <img src="https://cdn.simpleicons.org/arduino" width="45" height="45" alt="Arduino" />
   <img src="https://api.iconify.design/logos/docker-icon.svg" width="45" height="45" alt="Docker" />
   <img src="https://api.iconify.design/logos/aws.svg" width="45" height="45" alt="AWS" />
+  <img src="https://cdn.simpleicons.org/grafana" width="45" height="45" alt="Grafana" />
   <img src="https://cdn.simpleicons.org/cisco" width="45" height="45" alt="Cisco" />
   <img src="https://cdn.simpleicons.org/git" width="45" height="45" alt="Git" />
   <img src="https://cdn.simpleicons.org/github" width="45" height="45" alt="GitHub" />
