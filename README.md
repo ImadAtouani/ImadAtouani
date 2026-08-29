@@ -8,7 +8,7 @@
 
 # 🤸‍♂️ About Me
 
-<img align="right" width="260" src="https://raw.githubusercontent.com/gauravghongde/gauravghongde/output/snake.svg" alt="Matrix animation" />
+<img align="right" width="260" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/Assets/Matrix.gif" alt="Matrix rain animation" />
 
 - 🎓 Computer science student :computer: at **IPSSI** 🇫🇷
 - 🕸️ Passionate about **Web Development**
@@ -92,5 +92,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:5AE4FF,100:0F2027&height=120&section=footer" width="100%" alt="Footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B00,100:000000&height=120&section=footer" width="100%" alt="Footer banner" />
 </p>
