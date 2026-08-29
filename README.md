@@ -54,7 +54,4 @@ I'm a computer science student :computer: based in IPSSI 🇫🇷, passionate ab
   <img src="https://cdn.simpleicons.org/markdown" width="45" height="45" alt="Markdown" />
 </p>
 
-# 🔥 GitHub Stats
-![ImadAtouani's Stats](https://github-readme-stats.vercel.app/api?username=ImadAtouani&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![ImadAtouani's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ImadAtouani&theme=tokyonight&hide_border=true)
-![ImadAtouani's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImadAtouani&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ImadAtouani&layout=compact&langs_count=8)](https://github-stats-extended.vercel.app/api/top-langs?username=ImadAtouani&layout=compact&langs_count=8)
