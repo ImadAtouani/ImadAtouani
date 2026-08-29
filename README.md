@@ -1,9 +1,26 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:5AE4FF,100:2C5364&height=200&section=header&text=Imad%20Atouani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Dev%20%2B%20CyberSec%20Enthusiast&descAlignY=55&descSize=20" width="100%" alt="Header banner" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3500&pause=500&color=5AE4FF&center=true&width=650&lines=Hi%2C+I'm+Imad+Atouani;CS+student+%40+IPSSI+%F0%9F%87%AB%F0%9F%87%B7;Web+Dev+%2B+CyberSec+Enthusiast" alt="Animated intro" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ImadAtouani&label=Profile%20Views&color=5AE4FF&style=flat-square" alt="Profile views" />
+</p>
+
 # 🤸‍♂️ About Me
-I'm a computer science student :computer: based in IPSSI 🇫🇷, passionate about Web development 🕸️ and Cybersecurity :lock_with_ink_pen:.
+
+<img align="right" width="260" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding animation" />
+
+- 🎓 Computer science student :computer: at **IPSSI** 🇫🇷
+- 🕸️ Passionate about **Web Development**
+- 🔐 Diving deep into **Cybersecurity** :lock_with_ink_pen:
+- 🌱 Always experimenting with new languages, tools & low-level systems
+- ⚡ Fun fact: I enjoy tinkering just as much with hardware (Arduino, RISC-V) as I do with code
+
+<br clear="right"/>
 
 # 🌐 Socials
 <p align="left">
@@ -73,6 +90,7 @@ I'm a computer science student :computer: based in IPSSI 🇫🇷, passionate ab
 </p>
 
 # 🔥 GitHub Stats
-![ImadAtouani's Stats](https://github-readme-stats.vercel.app/api?username=ImadAtouani&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![ImadAtouani's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ImadAtouani&theme=tokyonight&hide_border=true)
-![ImadAtouani's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImadAtouani&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+  <a href="https://github-stats-extended.vercel.app/api?username=ImadAtouani&hide_rank=true&show_icons=true&include_all_commits=true"><img src="https://github-stats-extended.vercel.app/api?username=ImadAtouani&hide_rank=true&show_icons=true&include_all_commits=true" alt="GitHub Stats" /></a>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=ImadAtouani&layout=compact&langs_count=8"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=ImadAtouani&layout=compact&langs_count=8" alt="GitHub Stats" /></a>
+</p>
