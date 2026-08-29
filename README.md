@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:5AE4FF,100:2C5364&height=200&section=header&text=Imad%20Atouani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Dev%20%2B%20CyberSec%20Enthusiast&descAlignY=55&descSize=20" width="100%" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B00,100:00FF41&height=200&section=header&text=Imad%20Atouani&fontSize=55&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Web%20Dev%20%2B%20CyberSec%20Enthusiast&descAlignY=55&descSize=20&descColor=00FF41" width="100%" alt="Header banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3500&pause=500&color=5AE4FF&center=true&width=650&lines=Hi%2C+I'm+Imad+Atouani;CS+student+%40+IPSSI+%F0%9F%87%AB%F0%9F%87%B7;Web+Dev+%2B+CyberSec+Enthusiast" alt="Animated intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=500&color=00FF41&background=000000&center=true&width=650&lines=Hi%2C+I'm+Imad+Atouani;CS+student+%40+IPSSI+%F0%9F%87%AB%F0%9F%87%B7;Web+Dev+%2B+CyberSec+Enthusiast" alt="Animated intro" />
 </p>
 
 # 🤸‍♂️ About Me
 
-<img align="right" width="260" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding animation" />
+<img align="right" width="260" src="https://raw.githubusercontent.com/gauravghongde/gauravghongde/output/snake.svg" alt="Matrix animation" />
 
 - 🎓 Computer science student :computer: at **IPSSI** 🇫🇷
 - 🕸️ Passionate about **Web Development**
 - 🔐 Diving deep into **Cybersecurity** :lock_with_ink_pen:
 - 🌱 Always experimenting with new languages, tools & low-level systems
-- ⚡ Fun fact: I enjoy tinkering just as much with hardware (Arduino, RISC-V) as I do with code
+- ⚡ Fun fact: I like breaking into intentionally vulnerable VMs on TryHackMe/HackTheBox just to figure out how they were built
 
 <br clear="right"/>
 
@@ -89,4 +89,8 @@
 <p align="center">
   <a href="https://github-stats-extended.vercel.app/api?username=ImadAtouani&hide_rank=true&show_icons=true&include_all_commits=true"><img src="https://github-stats-extended.vercel.app/api?username=ImadAtouani&hide_rank=true&show_icons=true&include_all_commits=true" alt="GitHub Stats" /></a>
   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=ImadAtouani&layout=compact&langs_count=8"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=ImadAtouani&layout=compact&langs_count=8" alt="GitHub Stats" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:5AE4FF,100:0F2027&height=120&section=footer" width="100%" alt="Footer banner" />
 </p>
