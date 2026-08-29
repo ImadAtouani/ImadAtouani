@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3500&pause=500&color=5AE4FF&center=true&width=650&lines=Hi%2C+I'm+Imad+Atouani;CS+student+%40+IPSSI+%F0%9F%87%AB%F0%9F%87%B7;Web+Dev+%2B+CyberSec+Enthusiast" alt="Animated intro" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ImadAtouani&label=Profile%20Views&color=5AE4FF&style=flat-square" alt="Profile views" />
-</p>
-
 # 🤸‍♂️ About Me
 
 <img align="right" width="260" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding animation" />
